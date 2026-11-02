@@ -1,0 +1,15 @@
+# .gitignore
+build/
+out/
+*.exe
+*.pdb
+.vscode/
+.vs/
+crash.txt
+
+Export/
+
+/pseudocode
+/vcpkg_installed
+/android
+/thirdparty/android/bass
